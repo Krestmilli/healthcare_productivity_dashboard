@@ -134,3 +134,38 @@ Data Analyst | Freelance
 
 ---
 
+## 📄 License
+
+MIT License
+
+Copyright (c) 2025 Okoronkwo Ifeanyi Eric
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
+SOFTWARE.**
+
+---
+
+## 🙌 Acknowledgements
+
+I would like to acknowledge the creators and maintainers of the healthcare datasets used in this project. Although I do not have a background in clinical or healthcare operations, this project was driven by curiosity and the need to apply data analysis skills in a real-world context.
+
+Special thanks to:
+- Public health institutions and open data platforms that make this type of analysis possible.
+- Data professionals and visualization experts whose work continues to inspire and guide my learning journey.
+
+This dashboard is a data-driven research artifact, and I welcome constructive feedback or collaboration to improve it.
